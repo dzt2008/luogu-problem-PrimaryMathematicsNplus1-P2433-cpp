@@ -218,9 +218,9 @@ cout<<500.0/3<<endl;
 第五题是一个典型的小学奥数的大坑——行程问题！
 
 至于行程问题到底要注意什么 
-[为什么不百度一下](www.baidu.com "问问度娘")
-[为什么不Bing一下](www.bing.com)
-[为什么不Google一下](www.google.com)
+[为什么不百度一下](https://www.baidu.com "问问度娘")
+[为什么不Bing一下](https://www.bing.com)
+[为什么不Google一下](https://www.google.com)
 
 >Bing告诉我们
 
